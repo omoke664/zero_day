@@ -1,1 +1,1 @@
-This is my vagrant directory
+hello, please read me
